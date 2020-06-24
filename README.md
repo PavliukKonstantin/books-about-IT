@@ -1,4 +1,4 @@
-# Books-about-IT
+# Прочитанные книги по IT тематике
 
 ## Репозиторий о прочитанных книгах по IT тематике
 
@@ -7,17 +7,17 @@
 
 Список:
 
-1. [К. Сваруп - Укус питона (eng. A byte of python)](A_byte_of_python).
+1. [К. Сваруп - Укус питона (eng. A byte of python)](#A_byte_of_python).
 
-2. [Р. Лучано - Python. К вершинам мастерства (eng. Fluent Python)](Fluent_python).
+2. [Р. Лучано - Python. К вершинам мастерства (eng. Fluent Python)](#Fluent_python).
 
-3. [А. Бхаргава - Грокаем алгоритмы (eng. Grokking algorithms)](Grokking_algorithms).
+3. [А. Бхаргава - Грокаем алгоритмы (eng. Grokking algorithms)](#Grokking_algorithms).
 
-4. [Н.И. Поликарпова, А.А. Шалыто - Автоматное программирование](FSM).
+4. [Н.И. Поликарпова, А.А. Шалыто - Автоматное программирование](#FSM).
 
-5. [Э. Свейгарт - Автоматизация рутинных задач с помощью Python (eng. Automate the boring stuff with python)](Automate_with_python).
+5. [Э. Свейгарт - Автоматизация рутинных задач с помощью Python (eng. Automate the boring stuff with python)](#Automate_with_python).
 
-6. [С. Макконнелл - Совершенный код (eng. Code Complete, Second edition)](Code_Complete).
+6. [С. Макконнелл - Совершенный код (eng. Code Complete, Second edition)](#Code_Complete).
 
 ------------------------------------------------------------------------------
 
